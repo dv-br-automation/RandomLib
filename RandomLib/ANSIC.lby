@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?AutomationStudio Version=4.2.5.388?>
+<?AutomationStudio Version=4.3.3.195?>
 <Library xmlns="http://br-automation.co.at/AS/Library">
   <Files>
     <File Description="Exported data types">Types.typ</File>
@@ -8,7 +8,5 @@
     <File>random.c</File>
     <File>rand_interval.c</File>
     <File>RandomValue.c</File>
-    <File>license.txt</File>
-    <File>readme.txt</File>
   </Files>
 </Library>
